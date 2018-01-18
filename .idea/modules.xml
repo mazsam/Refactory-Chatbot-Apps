@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Refactory-Chatbot-Apps.iml" filepath="$PROJECT_DIR$/Refactory-Chatbot-Apps.iml" />
       <module fileurl="file://$PROJECT_DIR$/RefactoryChatBotExercise.iml" filepath="$PROJECT_DIR$/RefactoryChatBotExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
